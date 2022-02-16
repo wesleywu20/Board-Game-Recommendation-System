@@ -1,12 +1,12 @@
 # Board Game Recommendation System
-Final project for CS225 Fall 2021 by aspal2, iansong2, wwu70, and ipendem2.
+Final project for CS225 Fall 2021 by Arjun Pal, Ian Song, Wesley Wu, and Isha Pendem.
 ## Description
 This final project takes a data set of board games to create algorithm-generated recommendations for games to play based upon which ones are most similar to the board games that the user inputs. It uses parameters such as number of players, average play time, and mechanics to determine which board games are similar, and creates a graph with board games as vertices and weighted edges based upon their calculated similarity.
 
 ## Installing
 1. Clone and pull the repo
 ```
-git clone https://github-dev.cs.illinois.edu/cs225-fa21/aspal2-iansong2-wwu70-ipendem2.git
+git clone https://github.com/wesleywu20/CS-225-Final-Project
 git pull
 ```
 2. You're good to go!
